@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+DNAseq=input("enter a DNA sequence: ")
+peptide=DNAseq.replace("T", "U")
+
+print(peptide)
+
+
